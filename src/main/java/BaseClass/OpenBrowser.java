@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class OpenBrowser {
 public static WebDriver driver;
+    //git
     public static void NavtoWebsite(String url) {
         //chromedriver setup
         WebDriverManager.chromedriver().setup();
